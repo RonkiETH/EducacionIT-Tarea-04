@@ -1,0 +1,53 @@
+Hola a todos! 👋🏻
+
+Esta tarea va a ser distinta a lo que han hecho antes. Spoiler alert: será divertida, pero exigente. Se resuelve de a pares y se compone de 2 partes:
+
+
+PARTE 1: Diseño original
+
+Deberán realizar el HTML y CSS de referencia, tal y como lo han hecho antes. Para esto les paso un video y varias capturas del diseño que deben lograr.
+
+Para resolver esta primera parte del ejercicio les pido que generen la siguiente estructura y archivos:
+
+index.html
+css/estilos-1.css
+
+El archivo index.html debe utilizar el archivo estilos-1.css.
+
+El 99% de lo que necesitan para resolver esta primera parte lo vimos en clase, por lo que prácticamente no van a tener nada nuevo para investigar para llegar a la resolución.
+
+Tengan en cuenta que, si bien hay cientos de maneras de llegar al mismo resultado de forma visual, pueden intercambiar con los compañeros preguntas, ayuda, sugerencias, tips, tanto como quieran.
+
+En cuanto a los vínculos de comprar (que "parecen" botones), deben dirigir a archivos HTML hechos por ustedes, que contengan como mínimo más fotos e información del juego elegido y permitan volver al archivo principal. Estos archivos, si bien ustedes deciden su diseño, deben mantener la misma estética que la página principal
+
+
+
+PARTE 2: Diseño personalizado.
+
+Deberán adicionar otro archivo CSS VACÍO a la misma carpeta, de tal manera que la estructura quede así:
+
+index.html
+css/estilos-1.css
+css/estilos-2.css <-- este es el archivo nuevo
+
+Ahora deberán dejar comentada la etiqueta <link> del HTML ya existente y agregar otra que apunte al CSS nuevo. Es decir, no sumarán los estilos de ambos archivos CSS al mismo tiempo, sino que comentan el llamado al primero y agregan el <link> para utilizar el segundo.
+
+En este momento, como el nuevo CSS está vacío, la página se verá con los estilos predeterminados de las etiquetas HTML.
+
+Es importante no hacer ningún otro cambio en el archivo HTML ni duplicar el archivo HTML. <-- SIN EXCEPCIONES.
+
+Y ahora viene lo divertido: deberán en el nuevo archivo CSS utilizar todos los estilos que quieran, con el fin de lograr un diseño totalmente distinto.
+
+Aquí serán 100% libres con respecto al diseño que quieran lograr, siempre y cuando generen un diseño QUE NO ESTÉ BASADO EN EL ANTERIOR. Es decir, cambiar solo los colores o bordes no es suficiente. Es por esto que recalco que para esta segunda parte es importante que hagan un CSS nuevo, no que copien el anterior. Aquellos diseños que simplemente hayan utilizado el archivo CSS original y le hayan cambiado colores o algo muy sencillo o en donde se evidencie que un diseño es copia del original, se tomará como no realizado, ya que no cumple la consigna solicitada.
+
+Para el diseño personalizado pueden utilizar CUALQUIER concepto de CSS, lo hayamos visto o no. Por ejemplo, imágenes de fondo, sombras de cajas y de textos, textos y fondos con gradientes/degradados, bordes redondeados, flexbox, grids, position, pseudoclases after y before, animaciones, transformaciones, transiciones, etc, etc, etc.
+
+En este ejercicio se valorará no solo la prolijidad y profesionalismo del código HTML y CSS para ambos diseños, sino también qué tanto logren despegarse del diseño original. Recuerdan CSS Zen Garden? La idea sería que los diseños sean bien distintos, no solo cambiar un poco los padding y colores. Adelantarse en el temario sería una buena idea, googlear sobre los temas que mencioné en el párrafo anterior y debatir con los compañeros también lo es. En cuanto al diseño personalizado resultante, les sugiero pedir opiniones a familiares, amigos, conocidos, etc, para tomar críticas constructivas y entregar la mejor versión que puedan.
+
+Por último, deben respetar todos los lineamientos que definimos para las entregas, como utilizar un indentado prolijo, validar los archivos HTML y CSS, incorporar en el archivo zip que me pasan solo los archivos necesarios para que el HTML y CSS funcionen adecuadamente (eliminando capturas de pantalla o videos de referencia que incluí, archivos de texto, incluido este, etc), nomenclar correctamente el archivo zip (según ya hemos definido), verificar que el ejercicio resuelto funcione con y sin Live Server, etc. En el <title> del HTML por favor coloquen sus nombres completos y luego la palabra "Juegos" (que es el nombre descriptivo de la página). Ej: "Andrea Guzmán - Pablo Solimano - Juegos".
+
+En el archivo zipeado que les paso les envío también algunos diseños hechos por algunos alumnos que estaban al mismo nivel que ustedes ahora, muchos de los cuales investigaron cómo realizar cosas que no sabían hacer. Verán que algunos diseños son muy similares al original, sobre todo estructuralmente, mientras que otros son totalmente distintos.
+
+Espero que disfruten la práctica!
+
+PD: Tal vez es buena idea que relean este mensaje y vayan tomando nota de todo 😉

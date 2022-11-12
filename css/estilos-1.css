@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+body{
+    background-color: #F02C63;
+}
+
+.title{
+    background-color: #CB265B;
+    text-align: center;
+    padding: 20px;
+    border-left: 5px solid #fff;
+    border-right: 5px solid #fff;
+    width: 75%;
+    margin: 0px auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.title h1{
+    font-size: 40px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.games{
+    width: 75%;
+    margin: 0px auto;
+    background-color: #CB265B;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.mario-kart,
+.mortal-kombat{
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 10px;
+    margin-bottom: 40px;
+    padding: 10px;
+}
+
+.games h2{
+    color: #fff;
+    padding: 20px;
+}
+
+.games h3{
+    text-align: right;
+    color: #BC105C;
+    border-bottom: 3px dotted #BC105C;
+}
+
+.games img{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.buy-div{
+    text-align: center;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+a{
+    text-align: center;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    padding: 12px;
+    background-color: #2c8f20;
+    border: none;
+    border-radius: 4px;
+}
+
+a:hover{
+    background-color: #F02C63;
+}
+
+.games a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.games p{
+    padding: 5px;
+}
+
+footer{
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    background-color: #E96093;
+    margin: 0px auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 75%;
+    border-radius: 4px;
+}
+
+/* Estilos Mario Kart y Mortal Kombat 11*/
+
+.mario-kart-pg,
+.mortal-kombat-pg{
+    background-color: rgba(255, 255, 255, 0.767);
+    border-radius: 5px;
+    margin: 10px;
+    margin-bottom: 40px;
+    padding: 10px;
+}
+
+.mario-img,
+.mk11-img{
+    border-radius: 4px;
+}
+
+.h2-pg{
+    position: absolute;
+    text-align: start;
+    margin: 10px;
+    margin-left: 30px;
+    padding: 20px;
+}
+
+.h2-pg a{
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 4px;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.h2-pg a:hover{
+    background-color: #BC105C;
+}
+
+
